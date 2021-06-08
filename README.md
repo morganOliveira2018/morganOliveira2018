@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey  👋
 
-<!--
-**morganOliveira2018/morganOliveira2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Morgana Ribeiro 👩🏼‍🇧🇷
 
-Here are some ideas to get you started:
+I'm A Computer Science, that has been working as a Front-End developer. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+
+-   📍 I live in Beberibe - CE
+-   💻 Front-end React Developer | React.js Developer | React Native Developer
+
+Reach me out 👇🏼
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](www.linkedin.com/in/morgana-ribeiro-dev) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/morgana_ribeir0/) 
